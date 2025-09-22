@@ -1,5 +1,6 @@
-# Image_Acqusition-_using_Web_Camera
-
+# Experiment 2-Image Acquisition using Web Camera
+# Name: ROGITH. K
+# Reg No: 212223110042
 ## Aim:
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
 
@@ -104,17 +105,16 @@ cap.release()
 ## Output:
 
 ### i) Write the frame as JPG image
-<img width="624" height="498" alt="Screenshot 2025-09-08 103604" src="https://github.com/user-attachments/assets/b6d54d7f-adb3-4304-9857-b09e20815a22" />
+<img width="621" height="492" alt="Screenshot 2025-09-22 114858" src="https://github.com/user-attachments/assets/913383e6-7c0f-444e-ae81-776d0e8b3f1a" />
 
 ### ii) Display the video
-<img width="615" height="471" alt="Screenshot 2025-09-08 103611" src="https://github.com/user-attachments/assets/f139f0e7-870c-4191-8ac0-afcb909bb39b" />
+<img width="619" height="463" alt="Screenshot 2025-09-22 114915" src="https://github.com/user-attachments/assets/8760fb97-a0d8-4af1-a6db-8e80457bd7f7" />
 
 ### iii) Display the video by resizing the window
-<img width="307" height="466" alt="Screenshot 2025-09-08 103620" src="https://github.com/user-attachments/assets/a9836ae0-7f21-4b9a-9b2c-bb20cd7d4b39" />
+<img width="302" height="459" alt="Screenshot 2025-09-22 114923" src="https://github.com/user-attachments/assets/ac003c93-881b-4cc4-8930-8e3b240fb906" />
 
 ### iv) Rotate and display the video
-<img width="353" height="466" alt="Screenshot 2025-09-08 103628" src="https://github.com/user-attachments/assets/a353de2c-a408-462f-bf83-8d3557f8ed81" />
-
+<img width="345" height="460" alt="Screenshot 2025-09-22 114930" src="https://github.com/user-attachments/assets/0006a671-e015-4b5c-84e4-704afe863d16" />
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
